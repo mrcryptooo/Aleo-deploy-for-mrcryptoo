@@ -1,4 +1,4 @@
-discord: mrcryptoo
+discord : mrcryptoo
 # Aleo-deploy-for-mrcryptoo
 Aleo deploy for mrcryptoo
 First prepare the prerequisites and enter the following codes after starting.
